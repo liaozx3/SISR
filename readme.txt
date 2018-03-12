@@ -1,0 +1,3 @@
+bicubicTest和SISRTest是运行的main函数
+bicubic calculate 是双三次插值相关函数
+SISR ScaleByMethod getPatch getType getCoef 是实现基本任务论文方法相关函数
